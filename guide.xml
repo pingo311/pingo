@@ -1,0 +1,726 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Rede Brasil">
+    <display-name lang="pt">Rede Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190330000000 -0300" stop="20190330060000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330100000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330103000 -0300" channel="Rede Brasil">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330103000 -0300" stop="20190330110000 -0300" channel="Rede Brasil">
+    <title lang="pt">Sessão Cor de Rosa</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330113000 -0300" channel="Rede Brasil">
+    <title lang="pt">Sintonia</title>
+    <desc lang="pt">Clipes musicais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330113000 -0300" stop="20190330120000 -0300" channel="Rede Brasil">
+    <title lang="pt">Infomercial - Jovem Guarda</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330130000 -0300" channel="Rede Brasil">
+    <title lang="pt">Programa Lucimara Parisi</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330140000 -0300" channel="Rede Brasil">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330180000 -0300" channel="Rede Brasil">
+    <title lang="pt">Quiz</title>
+    <desc lang="pt">Produção independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330193000 -0300" channel="Rede Brasil">
+    <title lang="pt">Visão da Vida</title>
+    <desc lang="pt">Lauriete e o Senador Magno Malta recebem amigos e convidados para conversar, cantar e debater assuntos relevantes à sociedade, sempre de forma descontraída e agradável(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330193000 -0300" stop="20190330200000 -0300" channel="Rede Brasil">
+    <title lang="pt">Clube Coreia</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330210000 -0300" channel="Rede Brasil">
+    <title lang="pt">Crunchyroll TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330213000 -0300" channel="Rede Brasil">
+    <title lang="pt">RB Kids</title>
+    <desc lang="pt">Desenhos O Diário de Mika e Pororó, looney tunes e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330220000 -0300" channel="Rede Brasil">
+    <title lang="pt">Batman e Robin</title>
+    <desc lang="pt">Batman e Robin são super-heróis de combate ao crime, concorrendo com os vilões de Gotham city(n)</desc>
+    <credits>
+      <director>Lorenzo Semple Jr</director>
+      <actor>Adam West</actor>
+      <actor>Burt Ward</actor>
+      <actor>Alan Napier</actor>
+      <actor>Neil Hamilton</actor>
+    </credits>
+    <date>1968</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190330220000 -0300" stop="20190330221500 -0300" channel="Rede Brasil">
+    <title lang="pt">Findi Quiz: Sábado TOP</title>
+    <desc lang="pt">Curiosidades sobre os filmes e chance de ganhar prêmios nesse programa apresentado pelo carismático apresentador Evê Sobral(n)</desc>
+    <credits>
+      <actor>Evê Sobral</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190330221500 -0300" stop="20190331000000 -0300" channel="Rede Brasil">
+    <title lang="pt">Cine Rede Brasil Top</title>
+    <desc lang="pt">Não perca o melhor da dramaturgia na Rede Brasil de Televisão(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331060000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331120000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331130000 -0300" channel="Rede Brasil">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331170000 -0300" channel="Rede Brasil">
+    <title lang="pt">Concessionário - Quiz</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331180000 -0300" channel="Rede Brasil">
+    <title lang="pt">A Mulher Maravilha</title>
+    <desc lang="pt">Clássico do final da década de 70, Mulher Maravilha mostra as aventuras da princesa amazona que abandona sua terra para lutar pelo bem em um mundo controlado pelos homens(n)</desc>
+    <credits>
+      <actor>Lynda Carter</actor>
+    </credits>
+    <date>1970</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331183000 -0300" channel="Rede Brasil">
+    <title lang="pt">A Família Dó-Ré-Mí</title>
+    <desc lang="pt">The Partridge Family ou A Família Do-Re-Mi foi uma série de televisão no formato de uma sitcom criado por Bernard Slade e produzido por Bob Claver e Mel Swop(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190331183000 -0300" stop="20190331193500 -0300" channel="Rede Brasil">
+    <title lang="pt">SPA TV Fantasia</title>
+    <desc lang="pt">O Spa TV Fantasia que foi exibido com sucesso no Brasil, está de volta na programação da Rede Brasil. Com grande elenco e roteiro de muito humor, você vai se divertir e relembrar a época de ouro da televisão brasileira(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190331193500 -0300" stop="20190331200000 -0300" channel="Rede Brasil">
+    <title lang="pt">Batman e Robin</title>
+    <desc lang="pt">Batman e Robin são super-heróis de combate ao crime, concorrendo com os vilões de Gotham city(n)</desc>
+    <credits>
+      <director>Lorenzo Semple Jr</director>
+      <actor>Adam West</actor>
+      <actor>Burt Ward</actor>
+      <actor>Alan Napier</actor>
+      <actor>Neil Hamilton</actor>
+    </credits>
+    <date>1968</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331201500 -0300" channel="Rede Brasil">
+    <title lang="pt">Findi Quiz: Domingo Premiado</title>
+    <desc lang="pt">Curiosidades sobre os filmes e chance de ganhar prêmios nesse programa apresentado pelo carismático apresentador Evê Sobral(n)</desc>
+    <credits>
+      <actor>Evê Sobral</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190331201500 -0300" stop="20190331220000 -0300" channel="Rede Brasil">
+    <title lang="pt">Sucessos do Cinema</title>
+    <desc lang="pt">Filmes que foram sucessos do cinema(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190331220000 -0300" stop="20190331230000 -0300" channel="Rede Brasil">
+    <title lang="pt">Perdidos no Espaço</title>
+    <desc lang="pt">O Professor John Robinson, sua família e o Major Don West são selecionados para viajar até um planeta do sistema Alpha Centauri a fim de estabelecer uma colônia para que outras pessoas possam viver lá(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190401000000 -0300" channel="Rede Brasil">
+    <title lang="pt">Terra de Gigantes</title>
+    <desc lang="pt">A série mostra uma tripulação de uma nave espacial suborbital chamada Spindrift, que durante uma viagem de Los Angeles até Londres, entra numa dobra espacial e cai num planeta onde todos os habitantes são gigantes(n)</desc>
+    <credits>
+      <director>Irwin Allen</director>
+      <actor>Gary Conway</actor>
+      <actor>Don Matheson</actor>
+      <actor>Kurt Kasznar</actor>
+      <actor>Don Marshall</actor>
+    </credits>
+    <date>1968</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401060000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401110000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401115000 -0300" channel="Rede Brasil">
+    <title lang="pt">Papo em Dia com Luciano Faccioli</title>
+    <desc lang="pt">Luciano Faccioli chegou nas manhãs da Rede Brasil pedindo licença para entrar na casa dos nossos telespectadores, sentar no sofá das famílias brasileiras com o programa PAPO EM DIA(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401115000 -0300" stop="20190401121500 -0300" channel="Rede Brasil">
+    <title lang="pt">Curtas e Quentes</title>
+    <desc lang="pt">Notícias curtas e quentes sobre o mundo dos famosos, além de dicas culturais e entretenimento. De segunda à sexta, às 18h, com a apresentação irreverente de Décio Piccinini(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401121500 -0300" stop="20190401130000 -0300" channel="Rede Brasil">
+    <title lang="pt">Vida &amp; Estilo</title>
+    <desc lang="pt">Um show leve e descontraído que vai abordar os pilares necessários para se ter uma melhor qualidade de vida: alimentação, saúde física, mental e espiritual, financeira, familiar e de relacionamentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401131500 -0300" channel="Rede Brasil">
+    <title lang="pt">RB Shopping</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401131500 -0300" stop="20190401171500 -0300" channel="Rede Brasil">
+    <title lang="pt">Quiz</title>
+    <desc lang="pt">Produção independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401171500 -0300" stop="20190401183000 -0300" channel="Rede Brasil">
+    <title lang="pt">A Tarde é Show - Ao Vivo</title>
+    <desc lang="pt">Moda, beleza, desfiles, esoterismo, saúde, direito, debates, povo fala permeiam a programação do A Tarde é Show com Nani Venâncio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401183000 -0300" stop="20190401190000 -0300" channel="Rede Brasil">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401193000 -0300" channel="Rede Brasil">
+    <title lang="pt">RB Notícias - Ao Vivo</title>
+    <desc lang="pt">Com um formato ágil, dinâmico e moderno, o RB Notícias é o carro-chefe do departamento de Jornalismo da Rede Brasil e traz ao vivo e em primeira mão as manchetes do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401193000 -0300" stop="20190401194500 -0300" channel="Rede Brasil">
+    <title lang="pt">Infomercial - American Soluções</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401194500 -0300" stop="20190401200000 -0300" channel="Rede Brasil">
+    <title lang="pt">Infomercial - Zoe Farma</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401220000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401221500 -0300" channel="Rede Brasil">
+    <title lang="pt">Programete Senpai</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401221500 -0300" stop="20190401223500 -0300" channel="Rede Brasil">
+    <title lang="pt">Crunchyrool TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401223500 -0300" stop="20190401231500 -0300" channel="Rede Brasil">
+    <title lang="pt">Crunchyrool TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190401231500 -0300" stop="20190402000000 -0300" channel="Rede Brasil">
+    <title lang="pt">IRIS: Conflitos e Paixões</title>
+    <desc lang="pt">A premiada novela Coreana que conta a história do Serviço de Segurança Nacional, agentes que vão contra a misteriosa organização conhecida como IRIS(n)</desc>
+    <credits>
+      <director>Kim Kyu-tae</director>
+      <director>Yang Yun-ho</director>
+      <actor>Lee Byung-hun</actor>
+      <actor>Kim Tae-hee</actor>
+      <actor>Jung Joon-ho</actor>
+      <actor>Kim Seung-woo</actor>
+      <actor>Kim So-yeon e Choi Seung-hyun</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402060000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402060000 -0300" stop="20190402110000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402115000 -0300" channel="Rede Brasil">
+    <title lang="pt">Papo em Dia</title>
+    <desc lang="pt">Entrevistas, gastronomia,entreterimento e variedades. Vamos ter muita conversa boa, com convidados especiais e um papo descontraído, embalados por pratos deliciosos preparados por chefes renomados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402115000 -0300" stop="20190402121500 -0300" channel="Rede Brasil">
+    <title lang="pt">Curtas e Quentes</title>
+    <desc lang="pt">Notícias curtas e quentes sobre o mundo dos famosos, além de dicas culturais e entretenimento. De segunda à sexta, às 18h, com a apresentação irreverente de Décio Piccinini(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402121500 -0300" stop="20190402130000 -0300" channel="Rede Brasil">
+    <title lang="pt">Vida &amp; Estilo</title>
+    <desc lang="pt">Um show leve e descontraído que vai abordar os pilares necessários para se ter uma melhor qualidade de vida: alimentação, saúde física, mental e espiritual, financeira, familiar e de relacionamentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402131500 -0300" channel="Rede Brasil">
+    <title lang="pt">Sintonia</title>
+    <desc lang="pt">Clipes musicais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402131500 -0300" stop="20190402171500 -0300" channel="Rede Brasil">
+    <title lang="pt">Concessionário - Quiz</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402171500 -0300" stop="20190402183000 -0300" channel="Rede Brasil">
+    <title lang="pt">A Tarde é Show - Ao Vivo</title>
+    <desc lang="pt">Moda, beleza, desfiles, esoterismo, saúde, direito, debates, povo fala permeiam a programação do A Tarde é Show com Nani Venâncio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402183000 -0300" stop="20190402190000 -0300" channel="Rede Brasil">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402190000 -0300" stop="20190402193000 -0300" channel="Rede Brasil">
+    <title lang="pt">RB Notícias - Ao Vivo</title>
+    <desc lang="pt">Com um formato ágil, dinâmico e moderno, o RB Notícias é o carro-chefe do departamento de Jornalismo da Rede Brasil e traz ao vivo e em primeira mão as manchetes do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402194500 -0300" channel="Rede Brasil">
+    <title lang="pt">Informecial Benessere</title>
+    <desc lang="pt">Programa Informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402194500 -0300" stop="20190402200000 -0300" channel="Rede Brasil">
+    <title lang="pt">Informecial Benessere</title>
+    <desc lang="pt">Programa Informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402220000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402221500 -0300" channel="Rede Brasil">
+    <title lang="pt">Senpai TV</title>
+    <desc lang="pt">Programa Senpai TV(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402221500 -0300" stop="20190402223500 -0300" channel="Rede Brasil">
+    <title lang="pt">Crunchyroll TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402223500 -0300" stop="20190402231500 -0300" channel="Rede Brasil">
+    <title lang="pt">Crunchyroll TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190402231500 -0300" stop="20190403000000 -0300" channel="Rede Brasil">
+    <title lang="pt">As Panteras</title>
+    <desc lang="pt">Três charmosas detetives são contratadas por um milionário de quem nunca se viu o rosto, e que passa suas perigosas missões pelo viva-voz de um telefone(n)</desc>
+    <credits>
+      <director>Ivan Goff</director>
+      <director>Ben Roberts</director>
+      <director>Edward J. Lakso</director>
+      <actor>Farrah Fawcett</actor>
+      <actor>Kate Jackson</actor>
+      <actor>Jaclyn Smith</actor>
+      <actor>Cheryl Ladd</actor>
+      <actor>John Forsythe</actor>
+      <actor>Shelley Hack</actor>
+      <actor>Tanya Roberts</actor>
+      <actor>Nancy Fox</actor>
+      <actor>Rick Casorla</actor>
+      <actor>Louie Elias</actor>
+      <actor>Soon-Tek Oh</actor>
+    </credits>
+    <date>1976</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190403000000 -0300" stop="20190403060000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403060000 -0300" stop="20190403110000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403110000 -0300" stop="20190403115000 -0300" channel="Rede Brasil">
+    <title lang="pt">Papo em Dia</title>
+    <desc lang="pt">Entrevistas, gastronomia,entreterimento e variedades. Vamos ter muita conversa boa, com convidados especiais e um papo descontraído, embalados por pratos deliciosos preparados por chefes renomados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403115000 -0300" stop="20190403121500 -0300" channel="Rede Brasil">
+    <title lang="pt">Curtas e Quentes</title>
+    <desc lang="pt">Notícias curtas e quentes sobre o mundo dos famosos, além de dicas culturais e entretenimento. De segunda à sexta, às 18h, com a apresentação irreverente de Décio Piccinini(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403121500 -0300" stop="20190403130000 -0300" channel="Rede Brasil">
+    <title lang="pt">Vida &amp; Estilo</title>
+    <desc lang="pt">Um show leve e descontraído que vai abordar os pilares necessários para se ter uma melhor qualidade de vida: alimentação, saúde física, mental e espiritual, financeira, familiar e de relacionamentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403130000 -0300" stop="20190403131500 -0300" channel="Rede Brasil">
+    <title lang="pt">Sintonia</title>
+    <desc lang="pt">Clipes musicais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403131500 -0300" stop="20190403171500 -0300" channel="Rede Brasil">
+    <title lang="pt">Concessionário - Quiz</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403171500 -0300" stop="20190403183000 -0300" channel="Rede Brasil">
+    <title lang="pt">A Tarde é Show - Ao Vivo</title>
+    <desc lang="pt">Moda, beleza, desfiles, esoterismo, saúde, direito, debates, povo fala permeiam a programação do A Tarde é Show com Nani Venâncio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403183000 -0300" stop="20190403190000 -0300" channel="Rede Brasil">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403190000 -0300" stop="20190403193000 -0300" channel="Rede Brasil">
+    <title lang="pt">RB Notícias - Ao Vivo</title>
+    <desc lang="pt">Com um formato ágil, dinâmico e moderno, o RB Notícias é o carro-chefe do departamento de Jornalismo da Rede Brasil e traz ao vivo e em primeira mão as manchetes do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403193000 -0300" stop="20190403194500 -0300" channel="Rede Brasil">
+    <title lang="pt">Informecial Benessere</title>
+    <desc lang="pt">Programa Informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403194500 -0300" stop="20190403200000 -0300" channel="Rede Brasil">
+    <title lang="pt">Informecial Benessere</title>
+    <desc lang="pt">Programa Informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403200000 -0300" stop="20190403220000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403220000 -0300" stop="20190403221500 -0300" channel="Rede Brasil">
+    <title lang="pt">Senpai TV</title>
+    <desc lang="pt">Programa Senpai TV(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403221500 -0300" stop="20190403223000 -0300" channel="Rede Brasil">
+    <title lang="pt">Crunchyroll TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190403223000 -0300" stop="20190404000000 -0300" channel="Rede Brasil">
+    <title lang="pt">Em Revista com Evê Sobral</title>
+    <desc lang="pt">Comandado pelo jornalista e ator Evê Sobral o Em Revista traz assuntos de interesse público, onde convidados de várias especialidades discutem democraticamente as matérias apresentadas, além de falarem sobre suas atividades(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190404000000 -0300" stop="20190404060000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404060000 -0300" stop="20190404110000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404110000 -0300" stop="20190404115000 -0300" channel="Rede Brasil">
+    <title lang="pt">Papo em Dia</title>
+    <desc lang="pt">Entrevistas, gastronomia,entreterimento e variedades. Vamos ter muita conversa boa, com convidados especiais e um papo descontraído, embalados por pratos deliciosos preparados por chefes renomados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404115000 -0300" stop="20190404121500 -0300" channel="Rede Brasil">
+    <title lang="pt">Curtas e Quentes</title>
+    <desc lang="pt">Notícias curtas e quentes sobre o mundo dos famosos, além de dicas culturais e entretenimento. De segunda à sexta, às 18h, com a apresentação irreverente de Décio Piccinini(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404121500 -0300" stop="20190404130000 -0300" channel="Rede Brasil">
+    <title lang="pt">Vida &amp; Estilo</title>
+    <desc lang="pt">Um show leve e descontraído que vai abordar os pilares necessários para se ter uma melhor qualidade de vida: alimentação, saúde física, mental e espiritual, financeira, familiar e de relacionamentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404130000 -0300" stop="20190404131500 -0300" channel="Rede Brasil">
+    <title lang="pt">Sintonia</title>
+    <desc lang="pt">Clipes musicais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404131500 -0300" stop="20190404171500 -0300" channel="Rede Brasil">
+    <title lang="pt">Concessionário - Quiz</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404171500 -0300" stop="20190404183000 -0300" channel="Rede Brasil">
+    <title lang="pt">A Tarde é Show - Ao Vivo</title>
+    <desc lang="pt">Moda, beleza, desfiles, esoterismo, saúde, direito, debates, povo fala permeiam a programação do A Tarde é Show com Nani Venâncio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404183000 -0300" stop="20190404190000 -0300" channel="Rede Brasil">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404190000 -0300" stop="20190404193000 -0300" channel="Rede Brasil">
+    <title lang="pt">RB Notícias - Ao Vivo</title>
+    <desc lang="pt">Com um formato ágil, dinâmico e moderno, o RB Notícias é o carro-chefe do departamento de Jornalismo da Rede Brasil e traz ao vivo e em primeira mão as manchetes do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404193000 -0300" stop="20190404194500 -0300" channel="Rede Brasil">
+    <title lang="pt">Informecial Benessere</title>
+    <desc lang="pt">Programa Informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404194500 -0300" stop="20190404200000 -0300" channel="Rede Brasil">
+    <title lang="pt">Informecial Benessere</title>
+    <desc lang="pt">Programa Informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404200000 -0300" stop="20190404220000 -0300" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404220000 -0300" stop="20190404221500 -0300" channel="Rede Brasil">
+    <title lang="pt">Senpai TV</title>
+    <desc lang="pt">Programa Senpai TV(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404221500 -0300" stop="20190404223500 -0300" channel="Rede Brasil">
+    <title lang="pt">Crunchyroll TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190404223500 -0300" stop="20190404230000 -0300" channel="Rede Brasil">
+    <title lang="pt">Crunchyroll TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
